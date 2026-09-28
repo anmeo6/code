@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ahihi" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ahihi" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ahihi" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../3so.exe" />
+		<Unit filename="../../3uocso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../3uocso.exe" />
+		<Unit filename="../../Untitled1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../Untitled1.cpp" />
+		<Unit filename="../../Untitled1.exe" />
+		<Unit filename="../../a.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../a.exe" />
+		<Unit filename="../../aa.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../ahaha.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../ahaha.exe" />
+		<Unit filename="../../ahihi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../ahihi.exe" />
+		<Unit filename="../../akaka.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../akaka.exe" />
+		<Unit filename="../../anmeo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../b.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../bangcuuchuong.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../bangcuuchuong.exe" />
+		<Unit filename="../../bdkt.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../bdkt.exe" />
+		<Unit filename="../../binhphuong.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../binhphuong.exe" />
+		<Unit filename="../../ccc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../ccc.exe" />
+		<Unit filename="../../chanle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../chanle.exe" />
+		<Unit filename="../../chiaso.cpp" />
+		<Unit filename="../../chiaso.exe" />
+		<Unit filename="../../chiaso.o" />
+		<Unit filename="../../chusodaucuoi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../chusodaucuoi.exe" />
+		<Unit filename="../../chuyendoingaythang.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../chuyendoingaythang.exe" />
+		<Unit filename="../../chuyendoinhietdo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../chuyendoinhietdo.exe" />
+		<Unit filename="../../csxuathientrongday.cpp" />
+		<Unit filename="../../csxuathientrongday.exe" />
+		<Unit filename="../../csxuathientrongday.o" />
+		<Unit filename="../../danhsachcanh.cpp" />
+		<Unit filename="../../danhsachcanh.exe" />
+		<Unit filename="../../danhsachcanh.o" />
+		<Unit filename="../../demo.exe" />
+		<Unit filename="../../demso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../demso.exe" />
+		<Unit filename="../../diemutmoi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../diemutmoi.exe" />
+		<Unit filename="../../ff.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../ff.exe" />
+		<Unit filename="../../gapdoi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../gapdoi.exe" />
+		<Unit filename="../../gg.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../gg.exe" />
+		<Unit filename="../../hinhvuong.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../hinhvuong.exe" />
+		<Unit filename="../../hoanvi.cpp" />
+		<Unit filename="../../hoanvi.exe" />
+		<Unit filename="../../hoanvi.o" />
+		<Unit filename="../../hoanviketiep.cpp" />
+		<Unit filename="../../hoanviketiep.exe" />
+		<Unit filename="../../hoanviketiep.o" />
+		<Unit filename="../../hoanvinguoc.cpp" />
+		<Unit filename="../../hoanvinguoc.exe" />
+		<Unit filename="../../hoanvinguoc.o" />
+		<Unit filename="../../inso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../inso.exe" />
+		<Unit filename="../../intehosodu.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../intehosodu.exe" />
+		<Unit filename="../../kk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../kk.exe" />
+		<Unit filename="../../kkk.cpp" />
+		<Unit filename="../../kkk.exe" />
+		<Unit filename="../../kkk.o" />
+		<Unit filename="../../kkkkkk.c[.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../kkkkkkk.cpp" />
+		<Unit filename="../../matranke.cpp" />
+		<Unit filename="../../matranke.exe" />
+		<Unit filename="../../matranke.o" />
+		<Unit filename="../../matranke1.cpp" />
+		<Unit filename="../../matranke1.exe" />
+		<Unit filename="../../matranke1.o" />
+		<Unit filename="../../mtksangdske.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../mtksangdske.h" />
+		<Unit filename="../../nhiphan.cpp" />
+		<Unit filename="../../nhiphan.exe" />
+		<Unit filename="../../nhiphan.o" />
+		<Unit filename="../../nhiphanketiep.cpp" />
+		<Unit filename="../../nhiphanketiep.exe" />
+		<Unit filename="../../nhiphanketiep.o" />
+		<Unit filename="../../nn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../nn.exe" />
+		<Unit filename="../../nsonguyentodau.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../nsonguyentodau.exe" />
+		<Unit filename="../../oo.cpp" />
+		<Unit filename="../../oo.exe" />
+		<Unit filename="../../oo.o" />
+		<Unit filename="../../sangnguyento.cpp" />
+		<Unit filename="../../sangnguyento.exe" />
+		<Unit filename="../../sangnguyento.o" />
+		<Unit filename="../../sapxeptungbuoc.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sapxeptungbuoc.exe" />
+		<Unit filename="../../sochan2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sochan2.exe" />
+		<Unit filename="../../sochinhphuong.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sochinhphuong.exe" />
+		<Unit filename="../../sochinhphuong2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sochinhphuong2.exe" />
+		<Unit filename="../../sohoanhao.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sohoanhao.exe" />
+		<Unit filename="../../songuyento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../songuyento.exe" />
+		<Unit filename="../../songuyento3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../songuyentocungnhau.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../songuyentocungnhau.exe" />
+		<Unit filename="../../sostrong.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sothapphan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sothapphan.exe" />
+		<Unit filename="../../sothuannghich.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sothuannghich.exe" />
+		<Unit filename="../../sotn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../sotn.exe" />
+		<Unit filename="../../tachchanle.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../tanconketiep.cpp" />
+		<Unit filename="../../tapcon.cpp" />
+		<Unit filename="../../tapcon.exe" />
+		<Unit filename="../../tapcon.o" />
+		<Unit filename="../../test.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../test.exe" />
+		<Unit filename="../../test1.cpp" />
+		<Unit filename="../../test1.exe" />
+		<Unit filename="../../test1.o" />
+		<Unit filename="../../thaydoidaucuoi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../thaydoidaucuoi.exe" />
+		<Unit filename="../../thuasonguyento.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../thuasonguyento.exe" />
+		<Unit filename="../../tichcaso.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../tichcaso.exe" />
+		<Unit filename="../../timsolonnhat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../timsolonnhat.exe" />
+		<Unit filename="../../timsonhnhat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../timsonhnhat.exe" />
+		<Unit filename="../../timsonhonhat.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../timsonhonhat.exe" />
+		<Unit filename="../../tinhtongsp.exe" />
+		<Unit filename="../../tohop.cpp" />
+		<Unit filename="../../tohop.exe" />
+		<Unit filename="../../tohop.o" />
+		<Unit filename="../../tohopnguyento.cpp" />
+		<Unit filename="../../tohopnguyento.exe" />
+		<Unit filename="../../tohopnguyento.o" />
+		<Unit filename="../../tongbangk.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../tongdaycon=k.cpp" />
+		<Unit filename="../../tongdaycon=k.exe" />
+		<Unit filename="../../tongdaycon=k.o" />
+		<Unit filename="../../tonggiaithua.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../tonggiaithua.exe" />
+		<Unit filename="../../tongtrongdoan.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../tongtrongdoan.exe" />
+		<Unit filename="../../tongvahieu.exe" />
+		<Unit filename="../../trr22.cpp" />
+		<Unit filename="../../trr22.exe" />
+		<Unit filename="../../trr22.o" />
+		<Unit filename="../../ucln bcnn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../ucln bcnn.exe" />
+		<Unit filename="../../ucln copy.exe" />
+		<Unit filename="../../ucln.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../ucln.exe" />
+		<Unit filename="../../uclnvabcnn.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../uclnvabcnn.exe" />
+		<Unit filename="../../vatcantrongmecung.cpp" />
+		<Unit filename="../../vatcantrongmecung.exe" />
+		<Unit filename="../../vatcantrongmecung.o" />
+		<Unit filename="../../xinloi.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../../xinloi.exe" />
+		<Unit filename="../an.cpp" />
+		<Unit filename="../pp.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="../pp.exe" />
+		<Unit filename="../settings.json" />
+		<Unit filename="../tasks.json" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
